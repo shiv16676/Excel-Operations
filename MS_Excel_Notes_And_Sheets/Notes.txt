@@ -68,4 +68,4 @@ Charts:
   - Find out what was the last active cell in the workbook: use CTRL + END
   - Use 'Clear --> Clean All' option to remove the unwanted data from the cells.
 
-- Always name our table so that we can reference them anywhere in the sheet.
+- Always name our table so that we can reference them anywhere in the sheet. This is very important if we are working with large sheets having multiple tabs.
