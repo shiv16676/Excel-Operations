@@ -1,0 +1,71 @@
+Functions:
+----------
+- SUM()
+- PRODUCT()
+- AVERAGE() and AVERAGEA()
+- COUNT(), COUNTA() and COUNTBLANK()
+- IF()
+- SUMIF(), SUMIFS()
+- COUNTIF(),COUNTIFS()
+- VLOOKUP()
+- LEFT(), RIGHT(), MID()
+- CONCATENATE()
+- LEN()
+- FIND() , SEARCH() ----> FIND is case sensitive while SEARCH is not.
+- MIN(), MAX()
+- AND() , OR()
+- ROUND(), CEILING() , FLOOR()
+- TODAY() , NOW()
+- Shortcuts with ALT key
+- INDEX and MATCH
+- UPPER, LOWER, PROPER
+
+Charts:
+---------
+- Creating from Spreadsheets
+
+- Pivot tables:
+  - Rule#1: Always use a table.
+  - Rule#2: All data to be organized in columns with headings.
+  - Rule#3: No Empty columns OR rows.
+  - Rule#4: Data should be consistent in all the columns (e.g. TEXT column should not have DATE values, etc.)
+  - Rule#5: Format the whole field not just one cell.
+
+- Pivot charts:
+  - They can be derived using pivot tables.
+  
+- Data in Excel can be imported from:
+  - External sheet/text/CSV
+  - External website
+  - etc.
+ 
+- New features in 2016:
+  - Smart lookup
+  - Get & Transform
+  - Ink Equations
+  - Share button
+  - 'Tell me what you want to do' feature
+  - Forcast sheet feature
+  - 3D maps feature
+  - Few new chart types (e.g. Pareto, Histogram, etc.)
+
+- Flash fill and Auto fill
+
+- Shortcuts:
+  - ALT + Equal(=): For Auto Sum formulat
+  - CTRL + Z/Y: For Undoing/Re-doing what is just done
+  - CTRL + Minus(-): To remove a column
+  - CTRL + Plus(+): To add a column
+  - F9: To analyse a part of formula
+  - CTRL + Page up/down: To navigate between the worksheets
+  - CTRL + 1: It will open up the dialogue box to Format cells
+  - CTRL + W: To close the entire excelsheet.
+
+- PASTE SPECIAL:
+  - To use various options for pasting the data as per our requirement e.g. pasting only values if we don't the data as links, etc.
+  
+- Find and Delete Empty cells located outside of our data:
+  - Find out what was the last active cell in the workbook: use CTRL + END
+  - Use 'Clear --> Clean All' option to remove the unwanted data from the cells.
+
+- Always name our table so that we can reference them anywhere in the sheet.
